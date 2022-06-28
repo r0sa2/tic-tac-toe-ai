@@ -6,3 +6,4 @@ Cargo.lock
 /wasm-rust/wasm-pack.log
 /wasm-rust/www/node_modules/
 /wasm-rust/www/dist/
+.DS_Store
