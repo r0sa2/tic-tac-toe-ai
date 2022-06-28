@@ -7,3 +7,5 @@ Cargo.lock
 /wasm-rust/www/node_modules/
 /wasm-rust/www/dist/
 .DS_Store
+wasm-rust/.DS_Store
+wasm-rust/www/.DS_Store
